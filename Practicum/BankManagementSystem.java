@@ -1,3 +1,5 @@
+package Practicum;
+
 import java.util.Scanner;
 
 class BankAccount {

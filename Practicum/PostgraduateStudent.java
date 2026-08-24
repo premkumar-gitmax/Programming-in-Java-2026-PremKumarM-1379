@@ -1,3 +1,5 @@
+package Practicum;
+
 class Student {
     int studentID;
     String name;
